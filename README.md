@@ -22,4 +22,6 @@ Ensure that the paths to the data files are correctly set in the notebook.
 It is advisable to run the notebook on a machine with sufficient computational resources due to the potential intensity of training the autoencoder and running SVD.
 By following these steps, you will be able to replicate the process of encoding and extracting unique digital representations of odors using EEG signals.
 
+This work has been submitted to ICPR 2024.
+
 
