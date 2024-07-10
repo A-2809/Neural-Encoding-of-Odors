@@ -4,14 +4,13 @@ Neural Encoding of Odors: Translating Odors into Unique Digital Representation w
 ## ABSTRACT 
 Electroencephalography (EEG) plays a pivotal role as a non-invasive method for measuring brain activity, offering insights into cognitive processes such as perception, attention, and memory. Its significance lies in its ability to capture real-time neural dynamics with high temporal resolution, making it particularly valuable for studying the complexities of sensory perception, including olfaction. The human olfactory system is crucial for our sense of smell, understanding how the brain processes olfactory stimuli is complex due to the diverse nature of odor molecules and individual variability in perception. This work presents a novel pipeline for encoding and unique digital representations. Through these techniques, it uncovers unique odor representations, providing valuable insights into the intricacies of neural processing. These representations, embedded in matrices, have applications in healthcare, multi-sensory immersion, and e-commerce. The work explores comprehension of human cognition, while its practical implications underscore its relevance across diverse domains.
 
-## Running the Code
-# Prerequisites
+## Prerequisites
 Ensure you have the necessary libraries installed before running the code. 
 
-# Data
+## Data
 All data required for this project is included as NumPy files (.npy) to optimize storage space. Ensure these files are available in the appropriate directories as specified in the code.
 
-# Steps to Execute
+## Steps to Execute
 Running the Jupyter Notebook:
 Open the notebook file in the Jupyter interface and run all cells sequentially. The autoencoder will be trained on the pre-processed data, and the encoding representations will be extracted.
 
